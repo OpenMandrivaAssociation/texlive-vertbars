@@ -5,8 +5,8 @@
 # catalog-license lppl1.3
 # catalog-version 1.0b
 Name:		texlive-vertbars
-Version:	1.0b
-Release:	11
+Version:	1.0c
+Release:	1
 Summary:	Mark vertical rules in margin of text
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/vertbars
