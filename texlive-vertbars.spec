@@ -1,6 +1,6 @@
 Name:		texlive-vertbars
 Version:	49429
-Release:	1
+Release:	2
 Summary:	Mark vertical rules in margin of text
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/vertbars
