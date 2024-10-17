@@ -3,7 +3,7 @@ Version:	49429
 Release:	2
 Summary:	Mark vertical rules in margin of text
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/vertbars
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/vertbars
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/vertbars.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/vertbars.doc.r%{version}.tar.xz
